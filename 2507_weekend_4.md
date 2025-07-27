@@ -12,7 +12,7 @@
 int[] arr = {1, 2, 3};
 System.out.println(arr); // [I@15db9742 ← 주소값
 ```
-Arrays.toString()을 사용하면 보기 좋은 형태로 출력됨:
+Arrays.toString()을 사용하면 보기 좋은 형태로 출력됨
 ```java
 System.out.println(Arrays.toString(arr)); // [1, 2, 3]
 ```
